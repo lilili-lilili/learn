@@ -6,4 +6,4 @@ y_interp = interp1(x, y, x_interp, 'spline');
 plot(x_interp,y_interp);
 ylabel('·ù¶È/dB');
  xlabel('¾àÀëÏò/m');
- 111111
+ 111111£»
