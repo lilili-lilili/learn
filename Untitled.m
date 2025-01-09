@@ -7,3 +7,5 @@ plot(x_interp,y_interp);
 ylabel('·ù¶È/dB');
  xlabel('¾àÀëÏò/m');
  111111£»
+ 1111£»
+ 11111£»
